@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kaldin
+ *
+ */
+module CoreJava {
+}
